@@ -2,3 +2,4 @@
 "
 FRONT - HTML, CSS, JS
 BACKEND - PHP
+Сроки: 3 недели. Стоимость: 80 тысяч
