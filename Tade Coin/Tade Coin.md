@@ -1,1 +1,1 @@
-Система аккаунта - Tade Coin (GOLANG)
+Система аккаунта - Tade Coin (GOLANG&MYSQL)
